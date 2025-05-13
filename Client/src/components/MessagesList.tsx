@@ -1,11 +1,14 @@
+import { useSelector } from "react-redux";
 import { Message } from "../types/Message";
+import { RootState } from "../storage";
 
 
 interface Props {
-  messagesList: Message[]
 }
 
-const MessagesList: React.FC<Props> = ({ messagesList }) => {
+const MessagesList: React.FC<Props> = ({}) => {
+  const messagesList = useSelector((state: RootState) => state.chat.messagesList);
+
   return (
     <div className="mt-8 overflow-auto mb-4">
       {messagesList.map((item: Message) => {

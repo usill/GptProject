@@ -1,14 +1,47 @@
 import { X } from "lucide-react";
+import { useDispatch, useSelector } from "react-redux";
+import { AppDispatch, RootState } from "../storage";
+import { setAgreeToSendRecord, setDisplayTime, setRecordingModalState } from "../storage/ChatSlice";
+import { Display } from "../types/Display";
+import { useEffect } from "react";
 
 interface Props {
-    recordingModalState: string;
-    closeModal: () => void;
-    displayTime: string;
-    sendRecordToServer: () => void;
-    modalPreloaderState: string;
+  mediaRecorder: MediaRecorder | null;
 }
 
-const RecordingModal: React.FC<Props> = ({ recordingModalState, closeModal, displayTime, sendRecordToServer, modalPreloaderState }) => {
+const RecordingModal: React.FC<Props> = ({ mediaRecorder }) => {
+  const dispatch = useDispatch<AppDispatch>();
+
+  const agreeToSendRecord = useSelector((state: RootState) => state.chat.agreeToSendRecord);
+  const recordingModalState = useSelector((state: RootState) => state.chat.recordingModalState);
+  const modalPreloaderState = useSelector((state: RootState) => state.chat.modalPreloaderState);
+  const displayTime = useSelector((state: RootState) => state.chat.displayTime);
+  const recordingTime = useSelector((state: RootState) => state.chat.recordingTime);
+
+  const closeModal = () => {
+    if(agreeToSendRecord) return;
+
+    dispatch(setRecordingModalState(Display.Hidden));
+    mediaRecorder?.stop();
+  }
+
+  const sendRecordToServer = async () => {
+    mediaRecorder?.stop();
+    dispatch(setAgreeToSendRecord(true));
+  }
+
+  useEffect(() => {
+    const seconds = recordingTime % 60;
+    const minutes = recordingTime / 60;
+
+    const displaySeconds = seconds < 10 ? "0" + seconds : seconds;
+    const displayMinutes = minutes < 10 ? "0" + Math.trunc(minutes) : minutes;
+
+    dispatch(setDisplayTime(displayMinutes + ":" + displaySeconds));
+  }, [recordingTime]);
+
+
+
   return (
     <div
       className={

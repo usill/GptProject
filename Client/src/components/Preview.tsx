@@ -1,10 +1,13 @@
 import { MessageCircle } from "lucide-react";
+import { useSelector } from "react-redux";
+import { RootState } from "../storage";
 
 interface Props {
-  previewState: string,
 }
 
-const Preview: React.FC<Props> = ({ previewState }) => {
+const Preview: React.FC<Props> = () => {
+  const previewState = useSelector((state: RootState) => state.chat.previewState);
+
   return (
     <div className={"mt-8 " + previewState}>
       <div className="bg-indigo-600 w-fit p-3 rounded-lg">
