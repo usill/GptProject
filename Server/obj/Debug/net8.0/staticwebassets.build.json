@@ -1,0 +1,12 @@
+{
+  "Version": 1,
+  "Hash": "xA9SqjWDtpJRpDcA8muv0fSXh64NsDF08ACJvKN6V34=",
+  "Source": "TestGptApp",
+  "BasePath": "_content/TestGptApp",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": [],
+  "Endpoints": []
+}

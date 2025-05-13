@@ -1,0 +1,275 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Damir\\source\\repos\\TestGptApp\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{95FE96AB-1A2A-460A-A7FB-FC20809C7981}|TestGptApp.csproj|c:\\users\\damir\\source\\repos\\testgptapp\\services\\voiceservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{95FE96AB-1A2A-460A-A7FB-FC20809C7981}|TestGptApp.csproj|solutionrelative:services\\voiceservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{95FE96AB-1A2A-460A-A7FB-FC20809C7981}|TestGptApp.csproj|c:\\users\\damir\\source\\repos\\testgptapp\\controllers\\messagecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{95FE96AB-1A2A-460A-A7FB-FC20809C7981}|TestGptApp.csproj|solutionrelative:controllers\\messagecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{95FE96AB-1A2A-460A-A7FB-FC20809C7981}|TestGptApp.csproj|c:\\users\\damir\\source\\repos\\testgptapp\\services\\gptservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{95FE96AB-1A2A-460A-A7FB-FC20809C7981}|TestGptApp.csproj|solutionrelative:services\\gptservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{95FE96AB-1A2A-460A-A7FB-FC20809C7981}|TestGptApp.csproj|c:\\users\\damir\\source\\repos\\testgptapp\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{95FE96AB-1A2A-460A-A7FB-FC20809C7981}|TestGptApp.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{95FE96AB-1A2A-460A-A7FB-FC20809C7981}|TestGptApp.csproj|c:\\users\\damir\\source\\repos\\testgptapp\\testgptapp.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{95FE96AB-1A2A-460A-A7FB-FC20809C7981}|TestGptApp.csproj|solutionrelative:testgptapp.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{95FE96AB-1A2A-460A-A7FB-FC20809C7981}|TestGptApp.csproj|c:\\users\\damir\\source\\repos\\testgptapp\\services\\interfaces\\ivoiceservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{95FE96AB-1A2A-460A-A7FB-FC20809C7981}|TestGptApp.csproj|solutionrelative:services\\interfaces\\ivoiceservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{95FE96AB-1A2A-460A-A7FB-FC20809C7981}|TestGptApp.csproj|c:\\users\\damir\\source\\repos\\testgptapp\\models\\dto\\voicemessage.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{95FE96AB-1A2A-460A-A7FB-FC20809C7981}|TestGptApp.csproj|solutionrelative:models\\dto\\voicemessage.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{95FE96AB-1A2A-460A-A7FB-FC20809C7981}|TestGptApp.csproj|c:\\users\\damir\\source\\repos\\testgptapp\\models\\gptmessage.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{95FE96AB-1A2A-460A-A7FB-FC20809C7981}|TestGptApp.csproj|solutionrelative:models\\gptmessage.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{95FE96AB-1A2A-460A-A7FB-FC20809C7981}|TestGptApp.csproj|c:\\users\\damir\\source\\repos\\testgptapp\\models\\gptchoice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{95FE96AB-1A2A-460A-A7FB-FC20809C7981}|TestGptApp.csproj|solutionrelative:models\\gptchoice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{95FE96AB-1A2A-460A-A7FB-FC20809C7981}|TestGptApp.csproj|c:\\users\\damir\\source\\repos\\testgptapp\\models\\dto\\gptrequest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{95FE96AB-1A2A-460A-A7FB-FC20809C7981}|TestGptApp.csproj|solutionrelative:models\\dto\\gptrequest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{95FE96AB-1A2A-460A-A7FB-FC20809C7981}|TestGptApp.csproj|c:\\users\\damir\\source\\repos\\testgptapp\\services\\interfaces\\igptservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{95FE96AB-1A2A-460A-A7FB-FC20809C7981}|TestGptApp.csproj|solutionrelative:services\\interfaces\\igptservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{95FE96AB-1A2A-460A-A7FB-FC20809C7981}|TestGptApp.csproj|c:\\users\\damir\\source\\repos\\testgptapp\\models\\dto\\textmessage.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{95FE96AB-1A2A-460A-A7FB-FC20809C7981}|TestGptApp.csproj|solutionrelative:models\\dto\\textmessage.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{95FE96AB-1A2A-460A-A7FB-FC20809C7981}|TestGptApp.csproj|c:\\users\\damir\\source\\repos\\testgptapp\\models\\dto\\sendmessageresult.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{95FE96AB-1A2A-460A-A7FB-FC20809C7981}|TestGptApp.csproj|solutionrelative:models\\dto\\sendmessageresult.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{95FE96AB-1A2A-460A-A7FB-FC20809C7981}|TestGptApp.csproj|c:\\users\\damir\\source\\repos\\testgptapp\\models\\dto\\gptresponse.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{95FE96AB-1A2A-460A-A7FB-FC20809C7981}|TestGptApp.csproj|solutionrelative:models\\dto\\gptresponse.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{95FE96AB-1A2A-460A-A7FB-FC20809C7981}|TestGptApp.csproj|c:\\users\\damir\\source\\repos\\testgptapp\\testgptapp.http||{5703B403-55E7-4C63-8C88-A8F52C7A45C5}",
+      "RelativeMoniker": "D:0:0:{95FE96AB-1A2A-460A-A7FB-FC20809C7981}|TestGptApp.csproj|solutionrelative:testgptapp.http||{5703B403-55E7-4C63-8C88-A8F52C7A45C5}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 4,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "TestGptApp",
+              "DocumentMoniker": "C:\\Users\\Damir\\source\\repos\\TestGptApp\\TestGptApp.csproj",
+              "RelativeDocumentMoniker": "TestGptApp.csproj",
+              "ToolTip": "C:\\Users\\Damir\\source\\repos\\TestGptApp\\TestGptApp.csproj",
+              "RelativeToolTip": "TestGptApp.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2025-05-13T12:32:14.123Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "GptRequest.cs",
+              "DocumentMoniker": "C:\\Users\\Damir\\source\\repos\\TestGptApp\\Models\\DTO\\GptRequest.cs",
+              "RelativeDocumentMoniker": "Models\\DTO\\GptRequest.cs",
+              "ToolTip": "C:\\Users\\Damir\\source\\repos\\TestGptApp\\Models\\DTO\\GptRequest.cs",
+              "RelativeToolTip": "Models\\DTO\\GptRequest.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAAyAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-12T16:21:22.264Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "IVoiceService.cs",
+              "DocumentMoniker": "C:\\Users\\Damir\\source\\repos\\TestGptApp\\Services\\Interfaces\\IVoiceService.cs",
+              "RelativeDocumentMoniker": "Services\\Interfaces\\IVoiceService.cs",
+              "ToolTip": "C:\\Users\\Damir\\source\\repos\\TestGptApp\\Services\\Interfaces\\IVoiceService.cs",
+              "RelativeToolTip": "Services\\Interfaces\\IVoiceService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAA9AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-13T08:48:16.772Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Damir\\source\\repos\\TestGptApp\\Program.cs",
+              "RelativeDocumentMoniker": "Program.cs",
+              "ToolTip": "C:\\Users\\Damir\\source\\repos\\TestGptApp\\Program.cs",
+              "RelativeToolTip": "Program.cs",
+              "ViewState": "AgIAAAoAAAAAAAAAAAAgwBkAAAAsAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-12T15:51:16.124Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "VoiceService.cs",
+              "DocumentMoniker": "C:\\Users\\Damir\\source\\repos\\TestGptApp\\Services\\VoiceService.cs",
+              "RelativeDocumentMoniker": "Services\\VoiceService.cs",
+              "ToolTip": "C:\\Users\\Damir\\source\\repos\\TestGptApp\\Services\\VoiceService.cs",
+              "RelativeToolTip": "Services\\VoiceService.cs",
+              "ViewState": "AgIAAA0AAAAAAAAAAAAgwCgAAAAQAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-13T08:48:03.116Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "MessageController.cs",
+              "DocumentMoniker": "C:\\Users\\Damir\\source\\repos\\TestGptApp\\Controllers\\MessageController.cs",
+              "RelativeDocumentMoniker": "Controllers\\MessageController.cs",
+              "ToolTip": "C:\\Users\\Damir\\source\\repos\\TestGptApp\\Controllers\\MessageController.cs",
+              "RelativeToolTip": "Controllers\\MessageController.cs",
+              "ViewState": "AgIAABsAAAAAAAAAAAAqwCgAAAArAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-12T15:53:16.535Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "VoiceMessage.cs",
+              "DocumentMoniker": "C:\\Users\\Damir\\source\\repos\\TestGptApp\\Models\\DTO\\VoiceMessage.cs",
+              "RelativeDocumentMoniker": "Models\\DTO\\VoiceMessage.cs",
+              "ToolTip": "C:\\Users\\Damir\\source\\repos\\TestGptApp\\Models\\DTO\\VoiceMessage.cs",
+              "RelativeToolTip": "Models\\DTO\\VoiceMessage.cs",
+              "ViewState": "AgIAAAIAAAAAAAAAAAAxwAQAAAAjAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-12T22:32:54.068Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "GptService.cs",
+              "DocumentMoniker": "C:\\Users\\Damir\\source\\repos\\TestGptApp\\Services\\GptService.cs",
+              "RelativeDocumentMoniker": "Services\\GptService.cs",
+              "ToolTip": "C:\\Users\\Damir\\source\\repos\\TestGptApp\\Services\\GptService.cs",
+              "RelativeToolTip": "Services\\GptService.cs",
+              "ViewState": "AgIAAAkAAAAAAAAAAAAxwAwAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-12T16:12:43.616Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "IGptService.cs",
+              "DocumentMoniker": "C:\\Users\\Damir\\source\\repos\\TestGptApp\\Services\\Interfaces\\IGptService.cs",
+              "RelativeDocumentMoniker": "Services\\Interfaces\\IGptService.cs",
+              "ToolTip": "C:\\Users\\Damir\\source\\repos\\TestGptApp\\Services\\Interfaces\\IGptService.cs",
+              "RelativeToolTip": "Services\\Interfaces\\IGptService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAABJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-12T16:32:51.224Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "GptMessage.cs",
+              "DocumentMoniker": "C:\\Users\\Damir\\source\\repos\\TestGptApp\\Models\\GptMessage.cs",
+              "RelativeDocumentMoniker": "Models\\GptMessage.cs",
+              "ToolTip": "C:\\Users\\Damir\\source\\repos\\TestGptApp\\Models\\GptMessage.cs",
+              "RelativeToolTip": "Models\\GptMessage.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAArAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-12T16:22:51.327Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "GptChoice.cs",
+              "DocumentMoniker": "C:\\Users\\Damir\\source\\repos\\TestGptApp\\Models\\GptChoice.cs",
+              "RelativeDocumentMoniker": "Models\\GptChoice.cs",
+              "ToolTip": "C:\\Users\\Damir\\source\\repos\\TestGptApp\\Models\\GptChoice.cs",
+              "RelativeToolTip": "Models\\GptChoice.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAqwAQAAAAmAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-12T18:02:07.191Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "TextMessage.cs",
+              "DocumentMoniker": "C:\\Users\\Damir\\source\\repos\\TestGptApp\\Models\\DTO\\TextMessage.cs",
+              "RelativeDocumentMoniker": "Models\\DTO\\TextMessage.cs",
+              "ToolTip": "C:\\Users\\Damir\\source\\repos\\TestGptApp\\Models\\DTO\\TextMessage.cs",
+              "RelativeToolTip": "Models\\DTO\\TextMessage.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-12T19:14:49.705Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "SendMessageResult.cs",
+              "DocumentMoniker": "C:\\Users\\Damir\\source\\repos\\TestGptApp\\Models\\DTO\\SendMessageResult.cs",
+              "RelativeDocumentMoniker": "Models\\DTO\\SendMessageResult.cs",
+              "ToolTip": "C:\\Users\\Damir\\source\\repos\\TestGptApp\\Models\\DTO\\SendMessageResult.cs",
+              "RelativeToolTip": "Models\\DTO\\SendMessageResult.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAArAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-12T18:16:07.586Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "GptResponse.cs",
+              "DocumentMoniker": "C:\\Users\\Damir\\source\\repos\\TestGptApp\\Models\\DTO\\GptResponse.cs",
+              "RelativeDocumentMoniker": "Models\\DTO\\GptResponse.cs",
+              "ToolTip": "C:\\Users\\Damir\\source\\repos\\TestGptApp\\Models\\DTO\\GptResponse.cs",
+              "RelativeToolTip": "Models\\DTO\\GptResponse.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAAYAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-12T17:59:33.501Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "TestGptApp.http",
+              "DocumentMoniker": "C:\\Users\\Damir\\source\\repos\\TestGptApp\\TestGptApp.http",
+              "RelativeDocumentMoniker": "TestGptApp.http",
+              "ToolTip": "C:\\Users\\Damir\\source\\repos\\TestGptApp\\TestGptApp.http",
+              "RelativeToolTip": "TestGptApp.http",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003502|",
+              "WhenOpened": "2025-05-12T15:56:11.282Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
